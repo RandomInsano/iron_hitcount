@@ -1,0 +1,8 @@
+[package]
+name = "iron_hitcount"
+version = "0.1.0"
+authors = ["Edwin Amsler <edwinguy@gmail.com>"]
+
+[dependencies]
+iron="*"
+router="*"
